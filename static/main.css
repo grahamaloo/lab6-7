@@ -1,5 +1,4 @@
 body {
-    font-family: Garamond;
     font-size: 18pt;
 }
 
@@ -21,8 +20,9 @@ header {
     background-color: #EAFDF8;
     min-height: 100px;
 }
-.content h1:hover, .content h3:hover {
-    color: white;
+
+.content: hover {
+    color: gray;
 }
 .content ul {
     padding-top: 25px;
